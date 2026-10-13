@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-life/基于Ob的个人知识库.md",
-                "mode": "source",
+                "file": "05-life/做饭/鱼丸.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基于Ob的个人知识库"
+              "title": "鱼丸"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "鱼丸"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,10 +189,21 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "de5d80e92850a7c2",
+  "active": "55c50da517b33625",
   "lastOpenFiles": [
-    "05-life/音乐/如何听出一首歌是什么调.md",
+    "03-Knowledges/标定/带约束的位姿优化/只优化旋转rpy.md",
     "05-life/做饭/鱼丸.md",
+    "05-life/音乐/简要介绍如何使用口琴进行伴奏.md",
+    "05-life/音乐/如何升调或者降调.md",
+    "05-life/音乐/十孔口琴把位示意图.md",
+    "05-life/音乐/五度圈.md",
+    "05-life/音乐/image/十孔口琴把位示意图/1791873493338.png",
+    "05-life/音乐/image/十孔口琴把位示意图/1791872469451.png",
+    "05-life/音乐/image/十孔口琴把位示意图",
+    "05-life/音乐/image",
+    "05-life/日常杂项/家庭高温堆肥与发酵.md",
+    "05-life/日常杂项",
+    "05-life/音乐/如何听出一首歌是什么调.md",
     "05-life/音乐",
     "05-life/基于Ob的个人知识库.md",
     "05-life/做饭"
