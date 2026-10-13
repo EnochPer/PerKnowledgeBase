@@ -65,7 +65,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "汆",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -119,7 +119,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "e1e815e730c444ae",
@@ -189,7 +189,7 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "55c50da517b33625",
+  "active": "59adb4a4b48db90b",
   "lastOpenFiles": [
     "03-Knowledges/标定/带约束的位姿优化/只优化旋转rpy.md",
     "05-life/做饭/鱼丸.md",
