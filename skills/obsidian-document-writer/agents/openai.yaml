@@ -1,0 +1,4 @@
+interface:
+  display_name: "Obsidian Document Writer"
+  short_description: "Write Obsidian-friendly Markdown notes for this vault"
+  default_prompt: "Use $obsidian-document-writer to create or revise an Obsidian-friendly Markdown document."
