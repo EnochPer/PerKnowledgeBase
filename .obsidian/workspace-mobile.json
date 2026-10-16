@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-life/音乐/如何听出一首歌是什么调.md",
+                "file": "05-life/健康/十四经脉穴位方寸歌.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何听出一首歌是什么调"
+              "title": "十四经脉穴位方寸歌"
             }
           }
         ],
@@ -193,6 +193,18 @@
   },
   "active": "8b6369023264a8da",
   "lastOpenFiles": [
+    "05-life/音乐/如何听出一首歌是什么调.md",
+    "skills/obsidian-document-writer/references/obsidian-markdown.md",
+    "skills/obsidian-document-writer/agents/openai.yaml",
+    "skills/obsidian-document-writer/SKILL.md",
+    "skills/obsidian-document-writer/references",
+    "skills/obsidian-document-writer/agents",
+    "skills/obsidian-document-writer",
+    "skills",
+    "05-life/健康/十四经脉穴位方寸歌.md",
+    "05-life/健康/image/十四经脉穴位方寸歌/1791957228555.jpg",
+    "05-life/健康/image/十四经脉穴位方寸歌",
+    "05-life/健康/image",
     "0-临时记录/笔记.md",
     "0-临时记录",
     "05-life/做饭/鱼丸.md",
@@ -207,10 +219,6 @@
     "05-life/音乐/image/十孔口琴把位示意图",
     "05-life/音乐/image",
     "05-life/日常杂项/家庭高温堆肥与发酵.md",
-    "05-life/日常杂项",
-    "05-life/音乐/如何听出一首歌是什么调.md",
-    "05-life/音乐",
-    "05-life/基于Ob的个人知识库.md",
-    "05-life/做饭"
+    "05-life/基于Ob的个人知识库.md"
   ]
 }
