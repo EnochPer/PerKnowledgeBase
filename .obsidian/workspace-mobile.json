@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0-临时记录/笔记.md",
+                "file": "05-life/音乐/如何听出一首歌是什么调.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "笔记"
+              "title": "如何听出一首歌是什么调"
             }
           }
         ],
@@ -133,7 +133,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "0-临时记录/笔记.md",
+            "file": "05-life/音乐/如何听出一首歌是什么调.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -191,11 +191,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "55c50da517b33625",
+  "active": "8b6369023264a8da",
   "lastOpenFiles": [
+    "0-临时记录/笔记.md",
     "0-临时记录",
     "05-life/做饭/鱼丸.md",
-    "0-临时记录/笔记.md",
     "基于Ob的个人知识库.md",
     "03-Knowledges/标定/带约束的位姿优化/只优化旋转rpy.md",
     "05-life/音乐/简要介绍如何使用口琴进行伴奏.md",
