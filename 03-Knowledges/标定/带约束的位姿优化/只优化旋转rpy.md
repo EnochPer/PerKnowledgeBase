@@ -269,3 +269,8 @@ g++ -std=c++14 demo.cpp -lceres -lglog -I/usr/include/eigen3 -o demo
 - Ceres Solver：[`AutoDiffCostFunction`](http://ceres-solver.org/nnls_modeling.html)、[`LossFunction`](http://ceres-solver.org/nnls_modeling.html)、[`Covariance`](http://ceres-solver.org/nnls_covariance.html)。
 - Besl 与 McKay，*A Method for Registration of 3-D Shapes*，经典 ICP。
 - Barfoot，*State Estimation for Robotics*，$SO(3)$ 指数映射与局部扰动。
+
+
+## 关联实验：仅优化旋转的 GICP
+
+[仅优化旋转的 GICP：给定并固定平移](../仅优化旋转的gicp/README.md) 将固定平移的 SO(3) 增量思路迁移到 small_gicp，采用右扰动和三维旋转块 LM 求解，记录旋转 Hessian 特征值，并提供正确/有偏平移两组独立实验。代码尚未编译运行，结果需另行验证。
