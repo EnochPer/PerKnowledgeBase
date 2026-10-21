@@ -1,0 +1,59 @@
+154                                                        6 Camera Models
+                 Y
+
+
+                                                                                 Y
+                         X                                              X
+                                     y
+                             x
+                                              x                                                      fY/Z
+            C                                                       Z            C
+                                 p                                                               p          Z
+                                                            principal axis               f
+                camera
+                centre                       image plane
+
+
+
+Fig. 6.1. Pinhole camera geometry. C is the camera centre and p the principal point. The camera
+centre is here placed at the coordinate origin. Note the image plane is placed in front of the camera
+centre.
+
+
+computes that the point (X, Y, Z)T is mapped to the point (f X/Z, f Y/Z, f )T on the
+image plane. Ignoring the final image coordinate, we see that
+                                                  (X, Y, Z)T → (f X/Z, f Y/Z)T                                 (6.1)
+describes the central projection mapping from world to image coordinates. This is a
+mapping from Euclidean 3-space IR3 to Euclidean 2-space IR2 .
+  The centre of projection is called the camera centre. It is also known as the optical
+centre. The line from the camera centre perpendicular to the image plane is called the
+principal axis or principal ray of the camera, and the point where the principal axis
+meets the image plane is called the principal point. The plane through the camera
+centre parallel to the image plane is called the principal plane of the camera.
+
+Central projection using homogeneous coordinates. If the world and image points
+are represented by homogeneous vectors, then central projection is very simply ex-
+pressed as a linear mapping between their homogeneous coordinates. In particular,
+(6.1) may be written in terms of matrix multiplication as
+                                                                                              
+                                 X                                                       X
+                          Y       fX        f                                    0  
+                                        
+                             →  f Y  =                                 f     0 
+                                                                                     
+                                                                                        Y 
+                                                                                           .                   (6.2)
+                          Z                                                           Z 
+                                     Z                                           1 0
+                                 1                                                       1
+  The matrix in this expression may be written as diag(f, f, 1)[I | 0] where
+diag(f, f, 1) is a diagonal matrix and [I | 0] represents a matrix divided up into a 3 × 3
+block (the identity matrix) plus a column vector, here the zero vector.
+  We now introduce the notation X for the world point represented by the homoge-
+neous 4-vector (X, Y, Z, 1)T , x for the image point represented by a homogeneous 3-
+vector, and P for the 3×4 homogeneous camera projection matrix. Then (6.2) is written
+compactly as
+                                                                 x = PX
+which defines the camera matrix for the pinhole model of central projection as
+                                                    P = diag(f, f, 1) [I | 0].
+
