@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "05-life/做饭/鱼丸.md",
+                "file": "0-临时记录/笔记.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "鱼丸"
+              "title": "笔记"
             }
           },
           {
@@ -36,8 +36,7 @@
               "title": "十四经脉穴位方寸歌"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -133,7 +132,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "05-life/音乐/如何听出一首歌是什么调.md",
+            "file": "05-life/健康/十四经脉穴位方寸歌.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -191,8 +190,11 @@
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "8b6369023264a8da",
+  "active": "2181b929abac5f55",
   "lastOpenFiles": [
+    "05-life/做饭/鱼丸.md",
+    "05-life/健康/健身动作指南：发力技巧与动作规范.md",
+    "05-life/健康/十四经脉穴位方寸歌.md",
     "03-Knowledges/标定/单一相机标定内参外参/单一相机标定与鱼眼去畸变工程细节.md",
     "03-Knowledges/标定/单一相机标定内参外参/image/单一相机标定与鱼眼去畸变工程细节/1792034683951.png",
     "03-Knowledges/标定/单一相机标定内参外参/image/单一相机标定与鱼眼去畸变工程细节/1792034578484.png",
@@ -216,10 +218,8 @@
     "skills/obsidian-document-writer/references/obsidian-markdown.md",
     "skills/obsidian-document-writer/agents/openai.yaml",
     "skills/obsidian-document-writer/SKILL.md",
-    "05-life/健康/十四经脉穴位方寸歌.md",
     "05-life/健康/image/十四经脉穴位方寸歌/1791957228555.jpg",
     "0-临时记录/笔记.md",
-    "05-life/做饭/鱼丸.md",
     "基于Ob的个人知识库.md",
     "03-Knowledges/标定/带约束的位姿优化/只优化旋转rpy.md",
     "05-life/音乐/简要介绍如何使用口琴进行伴奏.md",
